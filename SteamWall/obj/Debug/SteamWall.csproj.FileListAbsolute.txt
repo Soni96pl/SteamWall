@@ -1,0 +1,6 @@
+C:\Users\Jakub\Documents\Visual Studio 2013\Projects\SteamWall\SteamWall\bin\Debug\SteamWall.exe.config
+C:\Users\Jakub\Documents\Visual Studio 2013\Projects\SteamWall\SteamWall\bin\Debug\SteamWall.exe
+C:\Users\Jakub\Documents\Visual Studio 2013\Projects\SteamWall\SteamWall\bin\Debug\SteamWall.pdb
+C:\Users\Jakub\Documents\Visual Studio 2013\Projects\SteamWall\SteamWall\obj\Debug\SteamWall.csprojResolveAssemblyReference.cache
+C:\Users\Jakub\Documents\Visual Studio 2013\Projects\SteamWall\SteamWall\obj\Debug\SteamWall.exe
+C:\Users\Jakub\Documents\Visual Studio 2013\Projects\SteamWall\SteamWall\obj\Debug\SteamWall.pdb
