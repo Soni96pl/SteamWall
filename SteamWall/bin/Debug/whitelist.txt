@@ -1,4 +1,7 @@
 C:\Program Files (x86)\Steam\Steam.exe
+C:\Program Files (x86)\Steam\bin\steamwebhelper.exe
+C:\Program Files (x86)\Steam\bin\steamservice.exe
+C:\Program Files (x86)\Common Files\Steam\SteamService.exe
 C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
 C:\Program Files (x86)\Internet Explorer\iexplore.exe
 C:\Program Files (x86)\Mozilla Firefox\firefox.exe
